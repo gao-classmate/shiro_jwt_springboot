@@ -6,7 +6,7 @@ spring:
     name: ShiroJwt
     url: jdbc:mysql://127.0.0.1:3306/shirojwt?useSSL=false&useUnicode=true&characterEncoding=UTF-8
     username: root
-    password: 360945
+    password: ######
     # 使用Druid数据源
     type: com.alibaba.druid.pool.DruidDataSource
     driver-class-name: com.mysql.jdbc.Driver
@@ -33,9 +33,9 @@ spring:
       add-mappings: false
   redis:
     database: 0
-    host: 139.224.106.112
+    host: #########
     port: 6383
-    password: yyh360945
+    password: #########
 
 mybatis:
   # Mybatis配置Mapper路径
