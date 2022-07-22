@@ -1,0 +1,3 @@
+# shiro_jwt_springboot
+整合shiro与jwt的个人学习项目
+本项目为springboot整合shiro框架，采用token记录登录状态，并用RefreshToken动态更新的学习项目
